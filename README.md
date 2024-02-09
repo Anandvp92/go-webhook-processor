@@ -26,3 +26,13 @@ To set up this project locally, clone the repository using:
 ```bash
 git clone https://github.com/Anandvp92/go-webhook-processor.git
 cd go-webhook-processor
+go run main.go
+
+##Usage Sample
+
+{
+  "ev": "Event Name",
+  "et": "Event Type",
+  // ... other fields
+}
+
