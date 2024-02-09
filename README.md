@@ -25,7 +25,7 @@ To set up this project locally, clone the repository using:
 
 ```bash
 git clone https://github.com/Anandvp92/go-webhook-processor.git
-cd go-webhook-processor
+cd go-webhook-processor\go-webhook
 go run main.go
 
 
